@@ -1,0 +1,9 @@
+{
+  "allowCompoundWords": true,
+  // "enableFiletypes": ["dockerfile", "md", "yaml"],
+  "ignorePaths": ["package.json", ".vscode"],
+  "ignoreRegExpList": [],
+  "ignoreWords": [],
+  "language": "en",
+  "words": []
+}
